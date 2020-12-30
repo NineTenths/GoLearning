@@ -1,4 +1,4 @@
-package kbdinput
+package keyboard
 
 import (
 	"bufio"

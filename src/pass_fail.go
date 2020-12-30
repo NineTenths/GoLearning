@@ -8,7 +8,7 @@ import (
 
 func main() {
 	fmt.Print("Enter a grade: ")
-	grade, err := kbdinput.GetFloat()
+	grade, err := keyboard.GetFloat()
 	if err != nil {
 		log.Fatal(err)
 	}

@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24088378-8e49-4a97-a364-e1a2af746968" name="Default Changelist" comment="" />
+    <list default="true" id="24088378-8e49-4a97-a364-e1a2af746968" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tocelsius.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tocelsius.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keyboard/kbdinput/keyboard.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/keyboard/kbdinput/keyboard.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pass_fail.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/pass_fail.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tocelsius.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/tocelsius.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +26,9 @@
     </option>
   </component>
   <component name="GOROOT" url="file://$USER_HOME$/sdk/go1.15.6" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="urls">
       <list>
@@ -28,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1mEzufPFmpT7PPbRGw03qWxsm5e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -125,5 +136,21 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ignore bin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ignore bin" />
   </component>
 </project>
